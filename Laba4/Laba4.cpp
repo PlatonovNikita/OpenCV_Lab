@@ -38,7 +38,7 @@ namespace Laba4 {
         }
 
         imshow("Panorama", panorama);
-        imwrite("./Laba3/ChangedImage/Panorama.jpg", panorama);
+        imwrite("./Laba4/ChangedImage/Panorama.jpg", panorama);
         waitKey(0);
         return 0;
 	}
